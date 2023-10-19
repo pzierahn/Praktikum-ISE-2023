@@ -1,0 +1,13 @@
+Cluster 00: software, architectural, architecture, design, approach, systems
+Cluster 01: microservice, microservices, software, architecture, systems, approach
+Cluster 02: blockchain, design, digital, brokers, graphql, architecture
+Cluster 03: systems, iot, approach, learning, architecture, automotive
+Cluster 04: handling, exception, checkpoint, erosion, hadoop, design
+Cluster 05: clustering, weights, optimized, architecture, microservice, systems
+
+Cluster 00: Software Architecture and Design
+Cluster 01: Microservices Architecture
+Cluster 02: Blockchain and Digital Design
+Cluster 03: IoT and Automotive Architecture
+Cluster 04: Exception Handling and Hadoop Design
+Cluster 05: Clustering and Optimization in Architecture

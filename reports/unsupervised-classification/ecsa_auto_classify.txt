@@ -1,0 +1,13 @@
+Cluster 00: architecture, software, approach, architectural, systems, system
+Cluster 01: clustering, operations, weights, optimized, dependencies, approaches
+Cluster 02: architecture, microservice, systems, data, microservices, analysis
+Cluster 03: assets, proml, provenance, teams, blockchain, distributed
+Cluster 04: architecture, decisions, debt, architectural, software, architects
+Cluster 05: brokers, edge, mqtt, blockchain, networks, network
+
+Cluster 00: Architecture and Software
+Cluster 01: Clustering and Optimization
+Cluster 02: Microservices and Data Analysis
+Cluster 03: Assets and Distributed Systems
+Cluster 04: Architecture and Software Debt
+Cluster 05: Brokers and Network Technologies
